@@ -1,0 +1,2 @@
+# Titanic-Survivor-Prediction
+Based on the given data of 700 passengers build machine learning model to predict where passenger going to survive or not. Performed k-fold cross-validation, hyperparameter tuning to get the best version of the model. Also, from Exploratory data analysis found most of the females were more likely to survive. Got an accuracy of 80.20% and stood top 15% of the leaderboard using Decision tree classifier.
